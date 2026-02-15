@@ -2,7 +2,7 @@
   <img src="src/assets/LOGO_main.jpeg" alt="NextYou Logo" width="300" height="300"/>
 </p>
 
-<h1 align="center">🚀 Welcome to <span style="color:#6366F1">Next_U</span> - Become the Main Character in Your Life's Adventure</h1>
+<h1 align="center"> Welcome to <span style="color:#6366F1">Next_U</span> - Become the Main Character in Your Life's Adventure</h1>
 
 ---
 
@@ -23,28 +23,28 @@
 
 ---
 
-## 📚 Table of Contents
-- [🌟 Vision](#vision)
-- [✍️ Project Description](#project-description)
-- [📝 Proposed System](#proposed-system)
-- [✨ Key Features](#key-features)
-- [🌐 Interface Preview](#interface-preview)
+## Table of Contents
+-  [Vision](#vision)
+- [ Project Description](#project-description)
+- [ Proposed System](#proposed-system)
+- [ Key Features](#key-features)
+- [ Interface Preview](#interface-preview)
   - [1. Landing Page](#1-landing-page)
   - [2. Web3 Login Feature](#2-web3-login-feature)
   - [3. Home Page](#3-home-page)
   - [4. Quest Page](#4-quest-page)
   - [5. Profile Page](#5-profile-page)
   - [6. Settings Page](#6-settings-page)
-- [💻 Tech Stack](#tech-stack)
-- [📱 App Structure](#app-structure)
-- [⛔ Existing System and Drawbacks](#existing-system-and-drawbacks)
-- [🚦 Getting Started](#getting-started)
-- [🔄 Typical User Flow](#typical-user-flow)
-- [📞 Contact](#contact)
+- [ Tech Stack](#tech-stack)
+- [ App Structure](#app-structure)
+- [ Existing System and Drawbacks](#existing-system-and-drawbacks)
+- [ Getting Started](#getting-started)
+- [ Typical User Flow](#typical-user-flow)
+- [ Contact](#contact)
 
 ---
 
-## <a id="vision"></a>🌟 Vision
+## <a id="vision"></a> Vision
 
 Next_U revolutionizes personal development by merging real-life achievements with an immersive gaming experience.
 

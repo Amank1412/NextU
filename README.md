@@ -50,27 +50,27 @@ Next_U revolutionizes personal development by merging real-life achievements wit
 
 Unlike conventional habit trackers or productivity apps, **Next_U** creates a dynamic RPG environment where your real-life efforts directly power your in-game character.
 
-✅ Physical fitness  
-✅ Mental wellbeing  
-✅ Learning new skills  
-✅ Social challenges
+Physical fitness  
+Mental wellbeing  
+Learning new skills  
+Social challenges
 
 Your actions earn XP, achievements, and leaderboard rankings.  
 **Next_U** transforms mundane self-improvement into an engaging, gamified adventure!
 
-<p align="right"><a href="#-table-of-contents">🔝 Back to Top</a></p>
+<p align="right"><a href="#-table-of-contents"> Back to Top</a></p>
 
 ---
 
-## <a id="project-description"></a>✍️ Project Description
+## <a id="project-description"></a> Project Description
 
 Next_U is a gamified personal growth app that turns your real-life self-improvement into an RPG adventure. Our platform tackles the common problem of abandoned habit trackers and fitness apps by making personal development genuinely fun. Instead of boring checklists, we've built a gaming experience where completing real-world challenges (like workouts, meditation, or learning) levels up your character, unlocks achievements, and puts you on leaderboards.
 
-<p align="right"><a href="#-table-of-contents">🔝 Back to Top</a></p>
+<p align="right"><a href="#-table-of-contents"> Back to Top</a></p>
 
 ---
 
-## <a id="proposed-system"></a>📝 Proposed System
+## <a id="proposed-system"></a> Proposed System
 We're developing a web app that connects your daily activities to in-game progress through several key components:
 
 - Quest system offering daily personalized challenges across fitness, mindfulness, learning, and social areas
@@ -80,27 +80,27 @@ We're developing a web app that connects your daily activities to in-game progre
 - Verification through a mix of self-reporting, app integrations, and optional blockchain verification
 - AI recommendation engine that learns user preferences and suggests new quests
 
-<p align="right"><a href="#-table-of-contents">🔝 Back to Top</a></p>
+<p align="right"><a href="#-table-of-contents"> Back to Top</a></p>
 
 ---
 
 
-## <a id="key-features"></a>✨ Key Features
+## <a id="key-features"></a> Key Features
 
-### 🗓️ Core Experience
-- ✅ **Daily Quests & Challenges** – Get personalized tasks in fitness, mindfulness, learning, etc.
-- 🌟 **Experience Points (XP) System** – Complete tasks and level up your profile.
-- ✍️ **Custom Quest Creation** – Tailor quests to fit your personal goals.
-- 🏆 **Achievement Badges** – Celebrate milestones and consistency.
-- 🥇 **Leaderboard** – Compete with friends or the community.
+###  Core Experience
+- **Daily Quests & Challenges** – Get personalized tasks in fitness, mindfulness, learning, etc.
+- **Experience Points (XP) System** – Complete tasks and level up your profile.
+- **Custom Quest Creation** – Tailor quests to fit your personal goals.
+- **Achievement Badges** – Celebrate milestones and consistency.
+- **Leaderboard** – Compete with friends or the community.
 
-### 🤖 Advanced Features
-- 🤯 **AI-Powered Recommendations** – Smart quest suggestions based on your habits.
-- 📊 **Progress Analytics** – Visual dashboards of your development.
-- 🔐 **Blockchain Integration** – Optional privacy-focused achievement verification.
-- 🔥 **Streak Tracking** – Track consistency and stay motivated.
+###  Advanced Features
+- **AI-Powered Recommendations** – Smart quest suggestions based on your habits.
+- **Progress Analytics** – Visual dashboards of your development.
+- **Blockchain Integration** – Optional privacy-focused achievement verification.
+- **Streak Tracking** – Track consistency and stay motivated.
 
-<p align="right"><a href="#-table-of-contents">🔝 Back to Top</a></p>
+<p align="right"><a href="#-table-of-contents"> Back to Top</a></p>
 
 ---
 
@@ -216,7 +216,7 @@ We're developing a web app that connects your daily activities to in-game progre
 
 ---
 
-## <a id="tech-stack"></a>💻 Tech Stack
+## <a id="tech-stack"></a> Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,postgres,firebase,python,tensorflow,sklearn,solidity,ethereum&theme=dark&perline=6" />

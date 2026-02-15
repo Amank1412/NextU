@@ -222,51 +222,51 @@ We're developing a web app that connects your daily activities to in-game progre
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,postgres,firebase,python,tensorflow,sklearn,solidity,ethereum&theme=dark&perline=6" />
 </div>
 
-### 🧑‍💻 Frontend
+###  Frontend
 - [![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 - [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 - [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-- 💫 Real-time UX with interactive animations & transitions
+-  Real-time UX with interactive animations & transitions
 
-### 🔧 Backend
+###  Backend
 - [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 - [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 - [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 - [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 - [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-- 🔐 JWT / Firebase Authentication for secure user sessions
+- JWT / Firebase Authentication for secure user sessions
 
-### 🧠 AI & Blockchain
+### AI & Blockchain
 - [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 - [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 - [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 - [![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://docs.soliditylang.org/)
 - [![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/)
-- 📡 RESTful API Architecture with modular service structure
+- RESTful API Architecture with modular service structure
 
-<p align="right"><a href="#-table-of-contents">🔝 Back to Top</a></p>
+<p align="right"><a href="#-table-of-contents"> Back to Top</a></p>
 
 ---
 
 
-## <a id="app-structure"></a>📱 App Structure
+## <a id="app-structure"></a>  App Structure
 
 ```bash
-├── /               # 🌐 Landing page
-├── /login          # 🔐 Login page
-├── /signup         # 📝 Registration
-├── /dashboard      # 📊 User’s main hub
-├── /quests         # 📋 Quests overview
-│   └── /create     # ✍️ Custom quest builder
-├── /profile        # 🧑 User profile & achievements
-├── /leaderboard    # 🏆 Rankings
-└── /settings       # ⚙️ Preferences
+├── /               # Landing page
+├── /login          # Login page
+├── /signup         # Registration
+├── /dashboard      # User’s main hub
+├── /quests         # Quests overview
+│   └── /create     # Custom quest builder
+├── /profile        # User profile & achievements
+├── /leaderboard    # Rankings
+└── /settings       # Preferences
 ```
-<p align="right"><a href="#-table-of-contents">🔝 Back to Top</a></p>
+<p align="right"><a href="#-table-of-contents"> Back to Top</a></p>
 
 ---
 
-## <a id="existing-system-and-drawbacks"></a>⛔ Existing System and Drawbacks
+## <a id="existing-system-and-drawbacks"></a>  Existing System and Drawbacks
 
 Current habit trackers and productivity apps suffer from several key limitations:
 
@@ -276,11 +276,11 @@ Current habit trackers and productivity apps suffer from several key limitations
 - Limited customization - preset goals often don't match personal needs
 - Minimal social features - existing apps rarely harness the power of community competition
 
-  <p align="right"><a href="#-table-of-contents">🔝 Back to Top</a></p>
+  <p align="right"><a href="#-table-of-contents"> Back to Top</a></p>
 
 ---
 
-## <a id="getting-started"></a>🚦 Getting Started
+## <a id="getting-started"></a>  Getting Started
 
 ### ***Clone repository*** <br>
 ```
@@ -306,44 +306,44 @@ npm run dev
 ```
 npm run build
 ```
-<p align="right"><a href="#-table-of-contents">🔝 Back to Top</a></p>
+<p align="right"><a href="#-table-of-contents"> Back to Top</a></p>
 
 ---
 
-## <a id="typical-user-flow"></a>🔄 Typical User Flow
+## <a id="typical-user-flow"></a> Typical User Flow
 
-1. 🧑‍💼 **User signs up and sets goals**  
+1. **User signs up and sets goals**  
    The journey begins by creating an account and sharing personal development preferences.
 
-2. 🧠 **Receives quests based on preferences**  
+2. **Receives quests based on preferences**  
    AI analyzes user input to suggest personalized daily challenges across fitness, learning, mindfulness, and more.
 
-3. 🎯 **Completes tasks and earns XP**  
+3. **Completes tasks and earns XP**  
    Every completed task grants experience points (XP), contributing to the user’s level and profile growth.
 
-4. 🧱 **Builds profile, unlocks badges**  
+4. **Builds profile, unlocks badges**  
    Users level up, earn streaks, and unlock achievements as they maintain consistency.
 
-5. 🔨 **Creates custom challenges**  
+5. **Creates custom challenges**  
    Design your own goals and track your personal milestones with the custom quest builder.
 
-6. 🧑‍🤝‍🧑 **Compares progress on the leaderboard**  
+6. **Compares progress on the leaderboard**  
    Stay motivated by comparing your journey with friends or the global community via real-time rankings.
 
-7. 🪙 **Optionally uses blockchain rewards**  
+7. **Optionally uses blockchain rewards**  
    Advanced users can link digital wallets to verify accomplishments and unlock premium quests through blockchain integration.
 
-<p align="right"><a href="#-table-of-contents">🔝 Back to Top</a></p>
+<p align="right"><a href="#-table-of-contents"> Back to Top</a></p>
 
 ---
 
-## <a id="contact"></a>📞 Contact
+## <a id="contact"></a>  Contact
 For support or inquiries, please contact us at - <br/></br>
 nextu@gmail.com
 
 <hr style="border-top: 0px solid #9CA3AF; width: 100%;" />
 <p align="center">© 2025 NextYou - Become the Main Character in Your Life's Adventure</p>
 
-<p align="right"><a href="#-table-of-contents">🔝 Back to Top</a></p>
+<p align="right"><a href="#-table-of-contents"> Back to Top</a></p>
 
 
